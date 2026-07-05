@@ -27,3 +27,9 @@ $RECYCLE.BIN/
 
 # Mac crap
 .DS_Store
+
+# =========================
+# Claude Code session handoffs (ephemeral, session-local)
+# =========================
+.claude/HANDOFF.md
+.claude/HANDOFF.last.md
